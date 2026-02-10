@@ -23,6 +23,6 @@ Este projeto foi desenvolvido em grupo por estudantes de Ciência da Computaçã
 
     Paulo Eduardo
 
-Agradecimentos especiais à coordenação do evento Sapiens pelo suporte técnico e introdução à engine Godot.
+Agradecimentos especiais à coordenação do evento Sapiens e aos instrutores pelo suporte técnico e introdução à engine Godot.
 
 Desenvolvido com 🕹️ por Miguel, Nathan e Paulo.
